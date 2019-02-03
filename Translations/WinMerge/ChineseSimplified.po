@@ -39,22 +39,22 @@ msgstr "65001"
 #: Merge.rc:1C6125F3
 #, c-format
 msgid "C&opy to Right"
-msgstr "复制到右侧(&O)"
+msgstr "复制到右侧(&o)"
 
 #: Merge.rc:92C6C92
 #, c-format
 msgid "Cop&y to Left"
-msgstr "复制到左侧(&Y)"
+msgstr "复制到左侧(&y)"
 
 #: Merge.rc:6FC398B6
 #, c-format
 msgid "Copy &from Left"
-msgstr ""
+msgstr "从左侧复制(&f)"
 
 #: Merge.rc:8AF7E68
 #, c-format
 msgid "Copy fro&m Right"
-msgstr ""
+msgstr "从右侧复制(&m)"
 
 #: Merge.rc:381D79E4
 #, c-format
@@ -104,7 +104,7 @@ msgstr "用默认程序(&R)"
 #: Merge.rc:321D741E
 #, c-format
 msgid "with &External Editor\tCtrl+Alt+E"
-msgstr ""
+msgstr "用外部编辑器(&E)\tCtrl+Alt+E"
 
 #: Merge.rc:AC3AA12
 #, c-format
@@ -114,7 +114,7 @@ msgstr "选择程序(&W)..."
 #: Merge.rc:1A8FADD3
 #, c-format
 msgid "View &Differences"
-msgstr ""
+msgstr "查看不同(&D)"
 
 #: Merge.rc:71E3C8E3
 #, c-format
@@ -124,22 +124,22 @@ msgstr ""
 #: Merge.rc:67D67717
 #, c-format
 msgid "&Ignore Color Difference (Color Distance Threshold)"
-msgstr ""
+msgstr "忽略颜色距离阈值(&I)"
 
 #: Merge.rc:5A9A7139
 #, c-format
 msgid "&Previous Page"
-msgstr ""
+msgstr "前一页("&P)"
 
 #: Merge.rc:68816EE1
 #, c-format
 msgid "&Next Page"
-msgstr ""
+msgstr "后一页(&N)"
 
 #: Merge.rc:4DE14271
 #, c-format
 msgid "&Active Pane"
-msgstr ""
+msgstr "激活窗格(&A)"
 
 #: Merge.rc:43017E43
 #, c-format
@@ -149,7 +149,7 @@ msgstr "缩放(&Z)"
 #: Merge.rc:AC3AA13
 #, c-format
 msgid "&Overlay"
-msgstr ""
+msgstr "覆盖(&O)"
 
 #: Merge.rc:43017E44
 #, c-format
@@ -159,17 +159,17 @@ msgstr "无(&N)"
 #: Merge.rc:4DE14272
 #, c-format
 msgid "&Alpha Blend"
-msgstr ""
+msgstr "Alpha混合(&A)"
 
 #: Merge.rc:237A0532
 #, c-format
 msgid "Alpha &Blend Animation"
-msgstr ""
+msgstr "Alpha混合动画(&B)"
 
 #: Merge.rc:5806E58F
 #, c-format
 msgid "Dragging &Mode"
-msgstr ""
+msgstr "拖曳模式(&M)"
 
 #: Merge.rc:43017E45
 #, c-format
@@ -179,12 +179,12 @@ msgstr "移动(&M)"
 #: Merge.rc:5A9A713A
 #, c-format
 msgid "&Adjust Offset"
-msgstr ""
+msgstr "调整偏移量(&A)"
 
 #: Merge.rc:100AAFAC
 #, c-format
 msgid "&Set Background Color"
-msgstr ""
+msgstr "设置背景色(&S)"
 
 #: Merge.rc:43017E46
 #, c-format
@@ -199,7 +199,7 @@ msgstr "新建(&N)\tCtrl+N"
 #: Merge.rc:2C8061AC
 #, c-format
 msgid "New (&3 panes)"
-msgstr ""
+msgstr "新建3方(&3)"
 
 #: Merge.rc:1DC30E61
 #, c-format
@@ -228,7 +228,7 @@ msgstr "最近打开的工程"
 #: Merge.rc:73E9B1DA
 #, c-format
 msgid "Recent F&iles Or Folders"
-msgstr ""
+msgstr "最近的文件或文件夹(&I)"
 
 #: Merge.rc:29D50B4A
 #, c-format
@@ -273,7 +273,7 @@ msgstr "大(&B)"
 #: Merge.rc:43017E49
 #, c-format
 msgid "&Huge"
-msgstr ""
+msgstr "巨大(&H)"
 
 #: Merge.rc:27AC6D7F
 #, c-format
@@ -308,17 +308,17 @@ msgstr "插件(&P)"
 #: Merge.rc:4C6CFD95
 #, c-format
 msgid "P&lugin Settings..."
-msgstr ""
+msgstr "插件设置（&l）"
 
 #: Merge.rc:729280D7
 #, c-format
 msgid "Ma&nual Prediffer"
-msgstr ""
+msgstr "手动(&n)"
 
 #: Merge.rc:7CF93368
 #, c-format
 msgid "A&utomatic Prediffer"
-msgstr ""
+msgstr "自动解包(&U)"
 
 #: Merge.rc:1A9EBDEC
 #, c-format
@@ -2037,7 +2037,7 @@ msgstr "忽略大小写(&C)"
 #: Merge.rc:6C318DC8
 #, c-format
 msgid "Ignore codepage &differences"
-msgstr ""
+msgstr "忽略代码页差异(&D)"
 
 #: Merge.rc:285B56CE
 #, c-format
@@ -2122,7 +2122,7 @@ msgstr "单词级别(&W):"
 #: Merge.rc:14AF463A
 #, c-format
 msgid "W&ord break characters:"
-msgstr ""
+msgstr "分词符："
 
 #: Merge.rc:34DF5070
 #, c-format
@@ -2182,12 +2182,12 @@ msgstr ""
 #: Merge.rc:F2F641C
 #, c-format
 msgid "Sa&ve changes"
-msgstr ""
+msgstr "中间侧文件"
 
 #: Merge.rc:71E3C8E4
 #, c-format
 msgid "Disca&rd changes"
-msgstr ""
+msgstr "放弃修改"
 
 #: Merge.rc:47D4A3FB
 #, c-format
@@ -2207,7 +2207,7 @@ msgstr "放弃修改(&C)"
 #: Merge.rc:5578260F
 #, c-format
 msgid "Disca&rd All"
-msgstr ""
+msgstr "放弃所有修改"
 
 #: Merge.rc:4C3E0A30
 #, c-format
@@ -2227,12 +2227,12 @@ msgstr "请选择打开非Unicode文件时默认的代码页"
 #: Merge.rc:5CC85DF4
 #, c-format
 msgid "Detect codepage info for these files: .html, .rc, .xml \nneed to restart session"
-msgstr ""
+msgstr "检测这些文件的代码页信息：.html，.rc，.xml\n需要重新启动会话"
 
 #: Merge.rc:3BCD5104
 #, c-format
 msgid "Detect codepage for text files using mlang.dll\nneed to restart session"
-msgstr ""
+msgstr "使用mlang.dll检测文本文件的代码页\n需要重新启动会话"
 
 #: Merge.rc:E6D7F1
 #, c-format
@@ -2247,7 +2247,7 @@ msgstr "与 WinMerge 用户界面一致"
 #: Merge.rc:8AF7E6A
 #, c-format
 msgid "Custom codepage:"
-msgstr ""
+msgstr "自定义代码页:"
 
 #: Merge.rc:6CD65B95
 #, c-format
@@ -2327,27 +2327,27 @@ msgstr "加粗"
 #: Merge.rc:2CEE4749
 #, c-format
 msgid "Marker colors"
-msgstr ""
+msgstr "标记颜色"
 
 #: Merge.rc:56BD1FBD
 #, c-format
 msgid "Search Marker:"
-msgstr ""
+msgstr "搜索标记:"
 
 #: Merge.rc:7B76381B
 #, c-format
 msgid "User Defined Marker1:"
-msgstr ""
+msgstr "用户定义的标记1:"
 
 #: Merge.rc:7B76381C
 #, c-format
 msgid "User Defined Marker2:"
-msgstr ""
+msgstr "用户定义的标记2:"
 
 #: Merge.rc:7B76381D
 #, c-format
 msgid "User Defined Marker3:"
-msgstr ""
+msgstr "用户定义的标记3:"
 
 #: Merge.rc:387F7980
 #, c-format
@@ -2367,7 +2367,7 @@ msgstr "样式(&S):"
 #: Merge.rc:545FEEA4
 #, c-format
 msgid "&Include File Compare Report"
-msgstr ""
+msgstr "包含文件比较报告"
 
 #: Merge.rc:3938FFC5
 #, c-format
@@ -2472,22 +2472,22 @@ msgstr "关闭"
 #: Merge.rc:2FC0BA7C
 #, c-format
 msgid "Middle:"
-msgstr ""
+msgstr "中间:"
 
 #: Merge.rc:2CEE474A
 #, c-format
 msgid "Missing Left:"
-msgstr ""
+msgstr "缺少左侧"
 
 #: Merge.rc:2A79A039
 #, c-format
 msgid "Missing Middle:"
-msgstr ""
+msgstr "缺少中间侧"
 
 #: Merge.rc:70DAA20F
 #, c-format
 msgid "Missing Right:"
-msgstr ""
+msgstr "缺少右侧"
 
 #: Merge.rc:413EF3DC
 #, c-format
@@ -2532,7 +2532,7 @@ msgstr "过滤器测试"
 #: Merge.rc:5CCED708
 #, c-format
 msgid "Testing filter ..."
-msgstr "正在测试 ..."
+msgstr "正在测试过滤器..."
 
 #: Merge.rc:4EF81630
 #, c-format
@@ -2672,22 +2672,22 @@ msgstr "否"
 #: Merge.rc:B612C23
 #, c-format
 msgid "Plugins"
-msgstr ""
+msgstr "插件"
 
 #: Merge.rc:78B3B628
 #, c-format
 msgid "&Enable plugins"
-msgstr ""
+msgstr "启用插件(&E)"
 
 #: Merge.rc:62909ED6
 #, c-format
 msgid "Shell Integration"
-msgstr ""
+msgstr "右键集成"
 
 #: Merge.rc:31DC8C62
 #, c-format
 msgid "Explorer"
-msgstr ""
+msgstr "文件管理器"
 
 #: Merge.rc:673BD331
 #, c-format
@@ -2697,17 +2697,17 @@ msgstr "允许高级菜单(&N)"
 #: Merge.rc:4EF81631
 #, c-format
 msgid "&Add to context menu"
-msgstr ""
+msgstr "添加到上下文菜单(&A)"
 
 #: Merge.rc:26A6974B
 #, c-format
 msgid "&Register shell extension"
-msgstr ""
+msgstr "注册右键扩展(&R)"
 
 #: Merge.rc:175DEEEF
 #, c-format
 msgid "&Unregister shell extension"
-msgstr ""
+msgstr "注销右键扩展(&U)"
 
 #: Merge.rc:7262BE24
 #, c-format
@@ -2727,12 +2727,12 @@ msgstr "忽略不足3秒的时间差别(&O)"
 #: Merge.rc:6D5B7719
 #, c-format
 msgid "&Include unique subfolders contents"
-msgstr ""
+msgstr "包括唯一的子文件夹内容(&I)"
 
 #: Merge.rc:3E136C28
 #, c-format
 msgid "&Automatically expand all subfolders"
-msgstr ""
+msgstr "自动展开所有子文件夹(&A)"
 
 #: Merge.rc:5D032167
 #, c-format
@@ -2837,7 +2837,7 @@ msgstr ""
 #: Merge.rc:28AAB7E
 #, c-format
 msgid "\nSave (Ctrl+S)"
-msgstr ""
+msgstr "\n保存 (Ctrl+S)"
 
 #: Merge.rc:524AB109
 #, c-format
@@ -4726,27 +4726,27 @@ msgstr ""
 #: Merge.rc:D404EE0
 #, c-format
 msgid "Close &Other Tabs"
-msgstr ""
+msgstr "关闭其他选项卡(&O)"
 
 #: Merge.rc:3E934E
 #, c-format
 msgid "Enable &Auto Max Width"
-msgstr ""
+msgstr "启用自动最大宽度(&A)"
 
 #: Merge.rc:3D9427A9
 #, c-format
 msgid "frhed is not installed"
-msgstr ""
+msgstr "未安装frhed"
 
 #: Merge.rc:73B321AA
 #, c-format
 msgid "%1 does not exist. Do you want to create it?"
-msgstr ""
+msgstr "%1不存在。是否要创建它？"
 
 #: Merge.rc:3A5D5964
 #, c-format
 msgid "Failed to create folder."
-msgstr ""
+msgstr "创建文件夹失败。"
 
 #: Merge.rc:64F70DD6
 #, c-format
